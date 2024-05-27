@@ -1,14 +1,14 @@
 .box {
-    border: 50px solid red;
+    border: 50px solid #b8e994;
     margin-top: 20px;
     width: 200px;
     padding: 50px;
 }
 
 .green {
-    border-color: green;
+    border-color: #82ccdd;
 }
 
 .blue {
-    border-color: blue;
+    border-color: #f8c291;
 }
