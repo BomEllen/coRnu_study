@@ -1,0 +1,40 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    width: 800px;
+    height: 400px;
+}
+.sub {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+}
+.third {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+}
+
+.box {
+
+    border: 2px solid rebeccapurple;
+}
+.lemon {
+    background-color: rgb(249, 250, 174);
+}
+.green {
+    background-color: rgb(170, 223, 169);
+}
+.sky {
+    background-color: rgb(166, 209, 229);
+}
