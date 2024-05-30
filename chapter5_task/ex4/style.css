@@ -1,0 +1,23 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.sub {
+    position: relative;
+    top: -100px;
+    left: 100px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: 2px solid rebeccapurple;
+}
+.lemon {
+    background-color: rgb(249, 250, 174);
+}
+.green {
+    background-color: rgb(170, 223, 169);
+    margin-right: 5px;
+}
