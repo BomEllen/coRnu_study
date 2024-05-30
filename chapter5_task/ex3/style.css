@@ -1,0 +1,30 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.first {
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+    align-self: center;
+}
+.sub {
+    position: relative;
+    left: 50%;
+    top: -200px;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+}
+
+.box {
+    border: 2px solid rebeccapurple;
+}
+.lemon {
+    background-color: rgb(249, 250, 174);
+}
+.green {
+    background-color: rgb(170, 223, 169);
+    margin-right: 5px;
+}
