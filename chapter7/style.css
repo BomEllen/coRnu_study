@@ -1,0 +1,47 @@
+body {
+    font-family: "Apple SD Gothic Neo", "Apple-Gothic", "SF Pro Display", "Roboto", "맑은 고딕", 
+    "Malgun Gothic", "Droid Sans", "dotum", sans-serif;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 50px;
+}
+
+.nav-title-img {
+    position: relative;
+    left: 45%;
+}
+.nav-icon {
+    margin-left: auto;
+}
+.icon {
+    margin: 0 8px;
+}
+.nav-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+main {
+    background-image: url(https://image.sivillage.com/upload/C00001/dspl/banner/8820/561/240200000441561.jpg);
+    height: 700px;
+    background-size: cover;
+}
+.main-title {
+    height: inherit;
+    font-size: 58px;
+    line-height: 66px;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 60%;
+}
